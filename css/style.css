@@ -135,7 +135,7 @@ body{
 }
 
 .todo-item.checked .checkbox{
-    color : var(--gray);
+    color : var(--btn-hover);
 }
 
 .content{
@@ -146,7 +146,7 @@ body{
 
 .todo-item.checked .content{
     font-style: italic;
-    color : var(--gray);
+    color : var(--btn-hover);
     text-decoration: line-through;
 }
 
